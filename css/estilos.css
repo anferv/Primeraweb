@@ -9,7 +9,7 @@ footer{
     text-align: center;
 }
 footer p{
-    padding-top:5%;
+    padding-top:2%;
 }
 .container{
     margin-left: 5%;
@@ -23,5 +23,22 @@ footer p{
 h1, h2{
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
+}
+.character {
+    width: 25%;
+    margin: 3%;
+    border: 2px blue solid;
+    border-radius: 8px;
+    text-align: center;
+
+}
+
+.character img {
+ width: 80%;
+ border-radius: 3%;
+}
+.infocharacter {
+    text-align: justify;
+    padding: 3%;
 }
